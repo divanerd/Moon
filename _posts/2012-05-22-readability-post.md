@@ -3,7 +3,7 @@ layout: post
 title: "Metis: Data Science Meets Bootcamp"
 date: 2017-04-26
 excerpt: "Week 1 @ Metis proves to be an intense ramp up"
-tags: [sample post, readability, test]
+tags: [Metis, bootcamp]
 comments: true
 ---
 
