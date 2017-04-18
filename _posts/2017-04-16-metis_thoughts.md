@@ -16,7 +16,6 @@ could be applied immediately.
 
 
 <br>
-<br>
 One of my biggest challanges this past week
 has been changing the way I both think about and handle data--
 namely in relation to data storage, manipulation and retrieval.  
@@ -26,13 +25,11 @@ the object oriented world will be both frustrating and rewarding.
 There were a few parts of our challenged/assignments
 that had me thinking "this would be a piece of cake in SQL."  
 <br>
-<br>
 
 
 But don't worry, I'm convinced that mastering Python
 will be worth it for the future.  Just need to put analytical 
 functions on the back burner for now.
-<br>
 <br>
 
 
@@ -42,12 +39,10 @@ was excited to show my mom some of the data I'd mined for
 stations that have sentimental significance to us.  In fact, this
 post is being writen from JetBlue flight 1715.
 <br>
-<br>
 
 I'm looking forward to playing with other "familiar" data.  A few years ago
 I built a web app that curated Yelp results for the indecisive, yet
 picky eater (JQuery).  Perhaps this will be fun to revisit.
-<br>
 <br>
 
 
