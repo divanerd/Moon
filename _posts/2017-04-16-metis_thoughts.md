@@ -8,7 +8,7 @@ comments: true
 ---
 
 As of Friday, I completed my first week at <a href="www.thisismetis.com">Metis</a>.  Metis
-lived up to it's description--it certainly
+lived up to its description--it certainly
 felt like a data science bootcamp.  The approach is simple:
 tons of content, tons of exploration.  I love the emphasis
 on application--from day one, we learned techniques that 
