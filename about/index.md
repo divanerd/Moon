@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: My Tidbits
+tags: [about, bio]
+date: 2017-04-17
 comments: false
 ---
 
