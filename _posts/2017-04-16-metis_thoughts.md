@@ -22,7 +22,7 @@ namely in relation to data storage, manipulation and retrieval.
 For the past few years, I've worked mostly with all flavors of SQL 
 (MySQL, PostgreSQL and Oracle SQL).  Easing myself back into 
 the object oriented world will be both frustrating and rewarding.  
-There were a few parts of our challenged/assignments
+There were a few parts of our challenges/assignments
 that had me thinking "this would be a piece of cake in SQL."  
 <br>
 
@@ -37,7 +37,7 @@ Our first project involved analyzing NYC MTA data--super interesting
 as a New Yorker myself.  I traveled home for the weekend and
 was excited to show my mom some of the data I'd mined for 
 stations that have sentimental significance to us.  In fact, this
-post is being writen from JetBlue flight 1715.
+post is being writen from JetBlue flight 1715. (I'll add more details about our MTA exploration in the "Projects" section).
 <br>
 
 I'm looking forward to playing with other "familiar" data.  A few years ago
