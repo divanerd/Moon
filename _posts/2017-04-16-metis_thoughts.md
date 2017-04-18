@@ -7,7 +7,7 @@ tags: [Metis, bootcamp]
 comments: true
 ---
 
-As of Friday, I completed my first week at Metis.  Metis
+As of Friday, I completed my first week at <a href="www.thisismetis.com">Metis</a>.  Metis
 lived up to it's description--it certainly
 felt like a data science bootcamp.  The approach is simple:
 tons of content, tons of exploration.  I love the emphasis
@@ -23,7 +23,9 @@ For the past few years, I've worked mostly with all flavors of SQL
 the object oriented world will be both frustrating and rewarding.  
 There were a few parts of our challenged/assignments
 that had me thinking "this would be a piece of cake in SQL."  
-But don't worry, I am convinced that mastering Python
+
+
+But don't worry, I'm convinced that mastering Python
 will be worth it for the future.  Just need to put analytical 
 functions on the back burner for now.
 
